@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: llm_dashboard_cookie
+credentials:
+  usernames:
+    admin2:
+      email: admin@example.com
+      name: 관리자
+      password: $2b$12$kcJ2SanGG4ot6PNWFiXUiOjd8esIJXbJPykvatoxEgydRiHzhuJ3W
+    user2:
+      email: user2@example.com
+      name: 사용자2
+      password: $2b$12$NniwrYEo9xeLCd8OTQgQeeknKzIEcNJ1EULSn/obr4psv/xWu0072
